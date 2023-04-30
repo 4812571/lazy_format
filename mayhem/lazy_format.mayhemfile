@@ -1,0 +1,5 @@
+project: lazy_format
+target: lazy_format
+duration: 600
+cmds:
+    - cmd: /fuzzers/fuzz_lazy_format
